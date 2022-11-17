@@ -3,7 +3,6 @@ import About from '../views/About.vue'
 import Home from '../views/Home.vue'
 import Admin from '../views/Admin.vue'
 
-
 const routes = [
     {
         path : '/',

@@ -1,13 +1,11 @@
 <script>
 // we can add setup attribute to script tag to avoid export default of imported components 
 import Footer from "./Footer.vue";
-
 export default {
     components: {
          Footer
     },
 }
-
 </script>
 <template>
     <div
