@@ -7,7 +7,6 @@
         }
     }
 </script>
-
 <template>
 
     <section class="counter-wrapper flex items-center justify-center gap-4 px-1 py-5 bg-gray-200">
